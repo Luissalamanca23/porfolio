@@ -1,0 +1,32 @@
+---
+import ExperienceItem from "./ExperienceItem.astro"
+const EXPERIENCIE = [
+  {
+    date: "Currently...",
+    title: "Web Developer",
+    company: "EcoCashBack",
+    description:
+      "EcoCashBack is a significant ongoing project that I am developing during my college tenure. As the team leader, I lead and collaborate with another developer to conceptualize and build the entire web application, as well as develop iOS and Android apps, from inception to completion. This role is honing my leadership skills, including project management, team coordination, and strategic planning. It exemplifies my ability to work effectively in a team, take initiative, and deliver high-quality results. Additionally, it showcases my expertise in front-end design, proficiency with back-end technologies, and experience in cross-platform mobile development.",
+    link: "https://github.com/Luissalamanca23/EcoCashBack",
+  },
+  /*
+  {
+      date: "Septiembre 2022",
+      title: "Principal Frontend Engineer",
+      company: "Adevinta Spain",
+      description:
+        "Responsable de la plataforma, componentes y utilidades para la creación y desarrollo de aplicaciones web. Mejora de un 30% en la entrega de software. Implantación de medidas de integración continua y despliegue con A/B testing en más de 15 equipos.",
+  },
+  */
+]
+---
+
+<ol class="relative mt-16">
+  {
+    EXPERIENCIE.map((experiencie) => (
+      <li class="">
+        <ExperienceItem {...experiencie} />
+      </li>
+    ))
+  }
+</ol>
