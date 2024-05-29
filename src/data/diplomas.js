@@ -1,9 +1,12 @@
 // Import a reference to the image itself
-import EYImagen from "../assets/diplomas/EY/CertificadoEY_HackatonFinXperience.jpg"
+import EYImagen from "../assets/diplomas/ey/certificadoey_hackatonfinxperience.jpg"
 
 const TAGS = {
     HACKATON: {
       name: "Hackaton",
+    },
+    CITT: {
+      name: "CITT",
     },
   };
   
@@ -11,6 +14,6 @@ const TAGS = {
     {
       title: "Hackaton FinXperience 2023 - EY",
       image: EYImagen,
-      tags: [TAGS.HACKATON],
+      tags: [TAGS.HACKATON, TAGS.CITT],
     }, 
   ];
