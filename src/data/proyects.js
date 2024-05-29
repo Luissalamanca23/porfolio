@@ -1,6 +1,6 @@
 import {TAGS} from './tags'
 
-import ECOImage from '../../public/projects/ecocashback.png'
+import ECOImage from '../assets/projects/ecocashback.png'
 
 export const PROJECTS = [
     {
