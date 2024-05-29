@@ -19,7 +19,7 @@
     "tailwindcss": "3.4.1",
     "typescript": "5.3.3"
   },
-  "description": "<div align=\"center\"> <a href=\"https://luissalamanca.dev\"> <img src=\"./public/me.jpeg\"> </a> <p></p> </div>",
+  "description": "<div align=\"center\"> <a href=\"https://porfolio.dev/\"> <img src=\"./public/porfolio.webp\"> </a> <p></p> </div>",
   "main": "index.js",
   "keywords": [],
   "author": "",
