@@ -1,5 +1,5 @@
 // Import a reference to the image itself
-import EYImagen from "../assets/diplomas/ey/certificadoey_hackatonfinxperience.jpg"
+import EYImagen from "../assets/diplomas/ey/certificadoey.jpg"
 
 const TAGS = {
     HACKATON: {
