@@ -1,5 +1,5 @@
 // Import a reference to the image itself
-import EYImagen from "../assets/diplomas/ey/certificadoey.webp";
+import EYImagen from "https://n5urxmtcyq8uomrx.public.blob.vercel-storage.com/ecocashback-u31YJXFR0uFjcysPFQZ0OsA4ZgWiL6.webp";
 import PUCImane from "../assets/diplomas/Hackaton_PUC.png";
 
 const TAGS = {

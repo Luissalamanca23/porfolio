@@ -1,6 +1,6 @@
 import {TAGS} from './tags'
 
-import ECOImage from '../assets/projects/ecocashback.webp';
+import ECOImage from 'https://n5urxmtcyq8uomrx.public.blob.vercel-storage.com/certificadoey-nIJM3gsOyBCxHaSVvfjvdRMBE51foG.webp';
 
 export const PROJECTS = [
     {
